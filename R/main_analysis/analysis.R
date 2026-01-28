@@ -6,9 +6,9 @@
 library(ggplot2)
 
 # Read the data (MAKE SURE THIS PATH WORKS ON YOUR MACHINE!)
-setwd("C:/Users/JohnDoe/Documents/forest_project")
+data_project <- read_csv(here("/forest_project/environmental_measurements_backup_old.csv")
 trees <- read.csv("forest_inventory_data.csv")
-env <- read.csv("environmental_measurements_backup_old.csv")
+env <- read.csv("")
 
 # Quick check
 print(dim(trees))
