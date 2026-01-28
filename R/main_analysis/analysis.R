@@ -1,6 +1,6 @@
 # Forest Analysis Script
-# Author: Dr. Smith
-# Date: ???
+# Author: Bryan & Naty
+# Date: 01-28-2026
 
 # Load packages
 library(ggplot2)
